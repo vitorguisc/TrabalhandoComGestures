@@ -6,4 +6,5 @@ Neste projeto podemos:
 
 💬 Utilizar logicas matematicas
 
-![Untitled design (1)](https://user-images.githubusercontent.com/103642861/218144714-a8cd87dd-d9d1-4b3d-b48d-8125f446fc67.png)
+![Untitled design (2)](https://user-images.githubusercontent.com/103642861/218145049-a4977e64-4956-4d61-8014-8a88a6a0f5b6.png)
+
